@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="ml-scrapy",
-    version="0.0.2",
+    version="0.0.3",
     keywords=("pip", "scrapy"),
     description="Components For Scrapy Project",
     long_description="Components For Scrapy Project",
